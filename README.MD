@@ -55,15 +55,19 @@ src/app
 
 ```bash
 npm install
+```
 ### 2️⃣ Rodar no Navegador
 ```bash
 ionic serve
+```
 ### 3️⃣ Rodar no Celular
+```bash
 ionic build
 npx cap add android
 npx cap open android
+```
 
-```bash
+## Exemplo de EndPoint e API utilizada
 https://pokeapi.co/api/v2/pokemon?limit=20
 
 📱 Funcionalidades
